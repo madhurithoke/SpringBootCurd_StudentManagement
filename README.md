@@ -15,7 +15,7 @@ This project is a CRUD (Create, Read, Update, Delete) system for managing studen
 - **Spring Boot**: Framework used for building the application.
 - **JSP**: Java Server Pages for view rendering.
 - **CrudPrository**: Used for database operations.
-- **MySQ**: Database for storing data.
+- **MySQL**: Database for storing data.
 - **Maven**: Dependency management.
 
 ## Features
